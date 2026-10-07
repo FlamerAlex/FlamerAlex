@@ -64,7 +64,7 @@ This section will contain links to my hands-on QA artifacts, including test case
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
-  <img src="https://cdn.simpleicons.org/microsoftexcel" title="Microsoft Excel" alt="Microsoft Excel" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" title="Microsoft Excel" alt="Microsoft Excel" width="40" height="40"/>&nbsp
 </div>
 
 ---
